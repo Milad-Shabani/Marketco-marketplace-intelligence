@@ -1,0 +1,10 @@
+category,seasonality_profile,mega_sale_sensitivity,base_daily_orders_share,avg_price_usd,avg_margin_pct
+Mobile & Tablet,flat_growth,3.2,0.16,340,9
+Home Appliances,nowruz_bump,2.6,0.12,260,14
+Fashion & Apparel,spring_bump,2.0,0.17,45,32
+Beauty & Health,gifting_bump,1.6,0.13,28,38
+Books & Media,back_to_school,1.1,0.06,12,22
+Digital Goods,flat_growth,3.6,0.09,18,55
+Grocery & Gourmet,yalda_bump,1.2,0.11,22,18
+Home & Kitchen,nowruz_bump,2.1,0.1,55,26
+Sports & Outdoor,summer_bump,1.7,0.06,65,24

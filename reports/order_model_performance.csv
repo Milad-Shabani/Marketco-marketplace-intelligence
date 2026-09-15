@@ -1,0 +1,11 @@
+segment,MAE,RMSE,WAPE_%,R2,n,P95_coverage_%
+Network overall,83.0,171.3,9.29,0.8224,72,90.3
+Beauty & Health,50.2,88.5,5.39,0.9041,8,
+Books & Media,33.8,40.7,4.37,0.9544,8,
+Digital Goods,209.1,369.9,19.1,0.6622,8,
+Fashion & Apparel,51.9,98.0,6.47,0.8877,8,
+Grocery & Gourmet,51.3,89.1,5.82,0.8417,8,
+Home & Kitchen,36.0,59.6,3.97,0.9706,8,
+Home Appliances,103.7,161.4,10.75,0.8675,8,
+Mobile & Tablet,151.9,254.9,14.39,0.7824,8,
+Sports & Outdoor,59.1,75.4,9.34,0.8809,8,

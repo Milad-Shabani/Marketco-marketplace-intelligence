@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,region,capacity_orders_per_day
+WH-01,Central Fulfillment Hub,Central,9000
+WH-02,North Distribution Center,North,4000
+WH-03,South Distribution Center,South,3500
+WH-04,East Fulfillment Center,East,3000
+WH-05,West Fulfillment Center,West,2800

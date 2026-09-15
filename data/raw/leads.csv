@@ -1,0 +1,755 @@
+lead_id,lead_source,created_date,status,converted_account_id
+LEAD-00001,Marketplace Inquiry,2023-08-12,Converted,ACC-0001
+LEAD-00002,Marketplace Inquiry,2022-10-26,Converted,ACC-0002
+LEAD-00003,Referral,2023-06-29,Converted,ACC-0003
+LEAD-00004,Partner Channel,2023-12-19,Converted,ACC-0004
+LEAD-00005,Referral,2021-08-24,Converted,ACC-0005
+LEAD-00006,Trade Show,2023-01-10,Converted,ACC-0006
+LEAD-00007,Referral,2022-05-23,Converted,ACC-0007
+LEAD-00008,Referral,2021-11-27,Converted,ACC-0008
+LEAD-00009,Marketplace Inquiry,2022-08-15,Converted,ACC-0009
+LEAD-00010,Referral,2022-02-28,Converted,ACC-0010
+LEAD-00011,Partner Channel,2023-11-09,Converted,ACC-0011
+LEAD-00012,Marketplace Inquiry,2023-08-27,Converted,ACC-0012
+LEAD-00013,Outbound Prospecting,2024-03-19,Converted,ACC-0013
+LEAD-00014,Referral,2022-11-18,Converted,ACC-0014
+LEAD-00015,Marketplace Inquiry,2021-11-02,Converted,ACC-0015
+LEAD-00016,Outbound Prospecting,2020-11-15,Converted,ACC-0016
+LEAD-00017,Marketplace Inquiry,2022-05-16,Converted,ACC-0017
+LEAD-00018,Outbound Prospecting,2022-01-29,Converted,ACC-0018
+LEAD-00019,Outbound Prospecting,2022-10-21,Converted,ACC-0019
+LEAD-00020,Trade Show,2023-08-21,Converted,ACC-0020
+LEAD-00021,Outbound Prospecting,2022-11-20,Converted,ACC-0021
+LEAD-00022,Outbound Prospecting,2021-01-02,Converted,ACC-0022
+LEAD-00023,Referral,2022-01-01,Converted,ACC-0023
+LEAD-00024,Marketplace Inquiry,2022-04-22,Converted,ACC-0024
+LEAD-00025,Referral,2023-09-12,Converted,ACC-0025
+LEAD-00026,Outbound Prospecting,2023-01-09,Converted,ACC-0026
+LEAD-00027,Outbound Prospecting,2023-11-22,Converted,ACC-0027
+LEAD-00028,Marketplace Inquiry,2021-12-10,Converted,ACC-0028
+LEAD-00029,Referral,2021-02-27,Converted,ACC-0029
+LEAD-00030,Marketplace Inquiry,2023-06-14,Converted,ACC-0030
+LEAD-00031,Outbound Prospecting,2023-11-19,Converted,ACC-0031
+LEAD-00032,Referral,2021-01-01,Converted,ACC-0032
+LEAD-00033,Marketplace Inquiry,2023-02-25,Converted,ACC-0033
+LEAD-00034,Marketplace Inquiry,2024-06-03,Converted,ACC-0034
+LEAD-00035,Marketplace Inquiry,2023-11-28,Converted,ACC-0035
+LEAD-00036,Trade Show,2023-09-18,Converted,ACC-0036
+LEAD-00037,Referral,2022-06-21,Converted,ACC-0037
+LEAD-00038,Outbound Prospecting,2024-01-20,Converted,ACC-0038
+LEAD-00039,Trade Show,2021-06-20,Converted,ACC-0039
+LEAD-00040,Referral,2022-10-19,Converted,ACC-0040
+LEAD-00041,Marketplace Inquiry,2022-06-27,Converted,ACC-0041
+LEAD-00042,Marketplace Inquiry,2022-07-22,Converted,ACC-0042
+LEAD-00043,Trade Show,2021-06-11,Converted,ACC-0043
+LEAD-00044,Marketplace Inquiry,2021-12-29,Converted,ACC-0044
+LEAD-00045,Outbound Prospecting,2024-05-23,Converted,ACC-0045
+LEAD-00046,Marketplace Inquiry,2021-04-16,Converted,ACC-0046
+LEAD-00047,Marketplace Inquiry,2023-09-08,Converted,ACC-0047
+LEAD-00048,Partner Channel,2022-11-20,Converted,ACC-0048
+LEAD-00049,Marketplace Inquiry,2023-10-03,Converted,ACC-0049
+LEAD-00050,Outbound Prospecting,2022-02-07,Converted,ACC-0050
+LEAD-00051,Partner Channel,2021-02-11,Converted,ACC-0051
+LEAD-00052,Marketplace Inquiry,2024-02-16,Converted,ACC-0052
+LEAD-00053,Partner Channel,2022-10-18,Converted,ACC-0053
+LEAD-00054,Outbound Prospecting,2021-07-23,Converted,ACC-0054
+LEAD-00055,Trade Show,2021-12-23,Converted,ACC-0055
+LEAD-00056,Marketplace Inquiry,2021-01-30,Converted,ACC-0056
+LEAD-00057,Marketplace Inquiry,2023-01-17,Converted,ACC-0057
+LEAD-00058,Trade Show,2023-10-26,Converted,ACC-0058
+LEAD-00059,Marketplace Inquiry,2022-12-04,Converted,ACC-0059
+LEAD-00060,Outbound Prospecting,2024-07-25,Converted,ACC-0060
+LEAD-00061,Trade Show,2023-05-02,Converted,ACC-0061
+LEAD-00062,Marketplace Inquiry,2022-06-19,Converted,ACC-0062
+LEAD-00063,Referral,2023-11-26,Converted,ACC-0063
+LEAD-00064,Outbound Prospecting,2024-02-27,Converted,ACC-0064
+LEAD-00065,Partner Channel,2021-10-28,Converted,ACC-0065
+LEAD-00066,Trade Show,2023-07-17,Converted,ACC-0066
+LEAD-00067,Marketplace Inquiry,2023-06-14,Converted,ACC-0067
+LEAD-00068,Marketplace Inquiry,2023-10-11,Converted,ACC-0068
+LEAD-00069,Trade Show,2023-03-11,Converted,ACC-0069
+LEAD-00070,Marketplace Inquiry,2022-12-30,Converted,ACC-0070
+LEAD-00071,Outbound Prospecting,2022-06-15,Converted,ACC-0071
+LEAD-00072,Outbound Prospecting,2022-11-08,Converted,ACC-0072
+LEAD-00073,Marketplace Inquiry,2023-11-14,Converted,ACC-0073
+LEAD-00074,Outbound Prospecting,2023-03-03,Converted,ACC-0074
+LEAD-00075,Outbound Prospecting,2024-07-27,Converted,ACC-0075
+LEAD-00076,Referral,2023-11-14,Converted,ACC-0076
+LEAD-00077,Referral,2024-09-02,Converted,ACC-0077
+LEAD-00078,Outbound Prospecting,2024-06-21,Converted,ACC-0078
+LEAD-00079,Referral,2022-07-18,Converted,ACC-0079
+LEAD-00080,Outbound Prospecting,2024-04-10,Converted,ACC-0080
+LEAD-00081,Trade Show,2024-04-18,Converted,ACC-0081
+LEAD-00082,Trade Show,2023-08-07,Converted,ACC-0082
+LEAD-00083,Trade Show,2024-02-12,Converted,ACC-0083
+LEAD-00084,Partner Channel,2024-04-21,Converted,ACC-0084
+LEAD-00085,Marketplace Inquiry,2023-10-21,Converted,ACC-0085
+LEAD-00086,Referral,2020-11-09,Converted,ACC-0086
+LEAD-00087,Trade Show,2021-10-04,Converted,ACC-0087
+LEAD-00088,Referral,2020-12-08,Converted,ACC-0088
+LEAD-00089,Outbound Prospecting,2023-10-02,Converted,ACC-0089
+LEAD-00090,Referral,2021-09-18,Converted,ACC-0090
+LEAD-00091,Referral,2024-03-17,Converted,ACC-0091
+LEAD-00092,Partner Channel,2020-11-17,Converted,ACC-0092
+LEAD-00093,Outbound Prospecting,2023-05-04,Converted,ACC-0093
+LEAD-00094,Marketplace Inquiry,2022-11-16,Converted,ACC-0094
+LEAD-00095,Referral,2023-02-18,Converted,ACC-0095
+LEAD-00096,Marketplace Inquiry,2021-09-07,Converted,ACC-0096
+LEAD-00097,Referral,2023-12-12,Converted,ACC-0097
+LEAD-00098,Outbound Prospecting,2024-03-27,Converted,ACC-0098
+LEAD-00099,Outbound Prospecting,2024-08-26,Converted,ACC-0099
+LEAD-00100,Referral,2021-03-26,Converted,ACC-0100
+LEAD-00101,Referral,2023-05-25,Converted,ACC-0101
+LEAD-00102,Trade Show,2023-11-09,Converted,ACC-0102
+LEAD-00103,Outbound Prospecting,2023-10-26,Converted,ACC-0103
+LEAD-00104,Outbound Prospecting,2021-02-14,Converted,ACC-0104
+LEAD-00105,Outbound Prospecting,2021-04-06,Converted,ACC-0105
+LEAD-00106,Trade Show,2024-06-21,Converted,ACC-0106
+LEAD-00107,Outbound Prospecting,2021-04-19,Converted,ACC-0107
+LEAD-00108,Trade Show,2022-02-27,Converted,ACC-0108
+LEAD-00109,Partner Channel,2022-07-21,Converted,ACC-0109
+LEAD-00110,Partner Channel,2021-12-27,Converted,ACC-0110
+LEAD-00111,Referral,2023-08-07,Converted,ACC-0111
+LEAD-00112,Partner Channel,2022-01-19,Converted,ACC-0112
+LEAD-00113,Marketplace Inquiry,2024-03-20,Converted,ACC-0113
+LEAD-00114,Referral,2023-05-29,Converted,ACC-0114
+LEAD-00115,Referral,2021-12-31,Converted,ACC-0115
+LEAD-00116,Marketplace Inquiry,2024-02-10,Converted,ACC-0116
+LEAD-00117,Trade Show,2023-02-02,Converted,ACC-0117
+LEAD-00118,Marketplace Inquiry,2023-05-29,Converted,ACC-0118
+LEAD-00119,Trade Show,2022-01-10,Converted,ACC-0119
+LEAD-00120,Outbound Prospecting,2021-04-24,Converted,ACC-0120
+LEAD-00121,Marketplace Inquiry,2022-08-12,Converted,ACC-0121
+LEAD-00122,Partner Channel,2022-03-18,Converted,ACC-0122
+LEAD-00123,Trade Show,2020-12-18,Converted,ACC-0123
+LEAD-00124,Marketplace Inquiry,2022-10-04,Converted,ACC-0124
+LEAD-00125,Outbound Prospecting,2021-06-28,Converted,ACC-0125
+LEAD-00126,Marketplace Inquiry,2021-11-23,Converted,ACC-0126
+LEAD-00127,Referral,2020-12-31,Converted,ACC-0127
+LEAD-00128,Marketplace Inquiry,2024-05-23,Converted,ACC-0128
+LEAD-00129,Referral,2023-02-11,Converted,ACC-0129
+LEAD-00130,Outbound Prospecting,2023-06-13,Converted,ACC-0130
+LEAD-00131,Outbound Prospecting,2021-08-10,Converted,ACC-0131
+LEAD-00132,Partner Channel,2023-06-29,Converted,ACC-0132
+LEAD-00133,Referral,2023-01-04,Converted,ACC-0133
+LEAD-00134,Outbound Prospecting,2021-10-21,Converted,ACC-0134
+LEAD-00135,Outbound Prospecting,2022-09-11,Converted,ACC-0135
+LEAD-00136,Marketplace Inquiry,2022-11-12,Converted,ACC-0136
+LEAD-00137,Referral,2023-07-28,Converted,ACC-0137
+LEAD-00138,Outbound Prospecting,2021-09-07,Converted,ACC-0138
+LEAD-00139,Outbound Prospecting,2024-02-28,Converted,ACC-0139
+LEAD-00140,Partner Channel,2021-12-20,Converted,ACC-0140
+LEAD-00141,Partner Channel,2023-05-03,Converted,ACC-0141
+LEAD-00142,Marketplace Inquiry,2023-09-29,Converted,ACC-0142
+LEAD-00143,Marketplace Inquiry,2023-10-16,Converted,ACC-0143
+LEAD-00144,Marketplace Inquiry,2021-10-23,Converted,ACC-0144
+LEAD-00145,Partner Channel,2022-03-12,Converted,ACC-0145
+LEAD-00146,Partner Channel,2023-05-24,Converted,ACC-0146
+LEAD-00147,Marketplace Inquiry,2022-02-16,Converted,ACC-0147
+LEAD-00148,Marketplace Inquiry,2021-08-30,Converted,ACC-0148
+LEAD-00149,Outbound Prospecting,2024-01-31,Converted,ACC-0149
+LEAD-00150,Outbound Prospecting,2023-10-01,Converted,ACC-0150
+LEAD-00151,Outbound Prospecting,2021-08-12,Converted,ACC-0151
+LEAD-00152,Referral,2021-07-17,Converted,ACC-0152
+LEAD-00153,Referral,2022-06-01,Converted,ACC-0153
+LEAD-00154,Partner Channel,2024-03-22,Converted,ACC-0154
+LEAD-00155,Marketplace Inquiry,2022-02-27,Converted,ACC-0155
+LEAD-00156,Partner Channel,2021-01-17,Converted,ACC-0156
+LEAD-00157,Referral,2023-02-18,Converted,ACC-0157
+LEAD-00158,Outbound Prospecting,2021-08-31,Converted,ACC-0158
+LEAD-00159,Referral,2022-05-18,Converted,ACC-0159
+LEAD-00160,Outbound Prospecting,2023-05-03,Converted,ACC-0160
+LEAD-00161,Trade Show,2022-03-14,Converted,ACC-0161
+LEAD-00162,Outbound Prospecting,2022-03-29,Converted,ACC-0162
+LEAD-00163,Partner Channel,2022-04-21,Converted,ACC-0163
+LEAD-00164,Referral,2021-05-28,Converted,ACC-0164
+LEAD-00165,Referral,2021-05-27,Converted,ACC-0165
+LEAD-00166,Outbound Prospecting,2021-06-01,Converted,ACC-0166
+LEAD-00167,Marketplace Inquiry,2024-04-23,Converted,ACC-0167
+LEAD-00168,Partner Channel,2022-11-29,Converted,ACC-0168
+LEAD-00169,Trade Show,2022-06-09,Converted,ACC-0169
+LEAD-00170,Marketplace Inquiry,2021-12-30,Converted,ACC-0170
+LEAD-00171,Outbound Prospecting,2023-02-11,Converted,ACC-0171
+LEAD-00172,Partner Channel,2024-02-23,Converted,ACC-0172
+LEAD-00173,Marketplace Inquiry,2024-01-04,Converted,ACC-0173
+LEAD-00174,Referral,2023-09-07,Converted,ACC-0174
+LEAD-00175,Outbound Prospecting,2024-06-21,Converted,ACC-0175
+LEAD-00176,Outbound Prospecting,2022-09-20,Converted,ACC-0176
+LEAD-00177,Marketplace Inquiry,2024-04-28,Converted,ACC-0177
+LEAD-00178,Trade Show,2023-03-26,Converted,ACC-0178
+LEAD-00179,Outbound Prospecting,2023-08-29,Converted,ACC-0179
+LEAD-00180,Outbound Prospecting,2021-09-05,Converted,ACC-0180
+LEAD-00181,Referral,2022-06-01,Converted,ACC-0181
+LEAD-00182,Marketplace Inquiry,2022-06-20,Converted,ACC-0182
+LEAD-00183,Trade Show,2021-01-13,Converted,ACC-0183
+LEAD-00184,Marketplace Inquiry,2023-12-14,Converted,ACC-0184
+LEAD-00185,Marketplace Inquiry,2022-02-01,Converted,ACC-0185
+LEAD-00186,Referral,2024-03-25,Converted,ACC-0186
+LEAD-00187,Marketplace Inquiry,2021-07-30,Converted,ACC-0187
+LEAD-00188,Marketplace Inquiry,2021-06-26,Converted,ACC-0188
+LEAD-00189,Referral,2023-04-15,Converted,ACC-0189
+LEAD-00190,Partner Channel,2022-01-17,Converted,ACC-0190
+LEAD-00191,Referral,2023-06-02,Converted,ACC-0191
+LEAD-00192,Trade Show,2023-09-14,Converted,ACC-0192
+LEAD-00193,Referral,2021-08-14,Converted,ACC-0193
+LEAD-00194,Outbound Prospecting,2022-01-08,Converted,ACC-0194
+LEAD-00195,Outbound Prospecting,2021-01-18,Converted,ACC-0195
+LEAD-00196,Referral,2022-01-27,Converted,ACC-0196
+LEAD-00197,Marketplace Inquiry,2022-08-04,Converted,ACC-0197
+LEAD-00198,Outbound Prospecting,2021-02-27,Converted,ACC-0198
+LEAD-00199,Trade Show,2024-01-04,Converted,ACC-0199
+LEAD-00200,Outbound Prospecting,2024-01-30,Converted,ACC-0200
+LEAD-00201,Outbound Prospecting,2021-03-08,Converted,ACC-0201
+LEAD-00202,Marketplace Inquiry,2021-03-16,Converted,ACC-0202
+LEAD-00203,Partner Channel,2022-08-03,Converted,ACC-0203
+LEAD-00204,Outbound Prospecting,2023-06-24,Converted,ACC-0204
+LEAD-00205,Partner Channel,2022-02-25,Converted,ACC-0205
+LEAD-00206,Partner Channel,2021-02-11,Converted,ACC-0206
+LEAD-00207,Trade Show,2022-06-20,Converted,ACC-0207
+LEAD-00208,Marketplace Inquiry,2021-11-19,Converted,ACC-0208
+LEAD-00209,Marketplace Inquiry,2023-10-10,Converted,ACC-0209
+LEAD-00210,Outbound Prospecting,2024-05-12,Converted,ACC-0210
+LEAD-00211,Marketplace Inquiry,2023-11-22,Converted,ACC-0211
+LEAD-00212,Outbound Prospecting,2021-05-03,Converted,ACC-0212
+LEAD-00213,Marketplace Inquiry,2022-12-20,Converted,ACC-0213
+LEAD-00214,Outbound Prospecting,2023-11-04,Converted,ACC-0214
+LEAD-00215,Partner Channel,2021-09-03,Converted,ACC-0215
+LEAD-00216,Outbound Prospecting,2021-10-04,Converted,ACC-0216
+LEAD-00217,Marketplace Inquiry,2024-06-01,Converted,ACC-0217
+LEAD-00218,Referral,2023-12-05,Converted,ACC-0218
+LEAD-00219,Trade Show,2020-11-03,Converted,ACC-0219
+LEAD-00220,Marketplace Inquiry,2022-03-12,Converted,ACC-0220
+LEAD-00221,Partner Channel,2021-03-16,Converted,ACC-0221
+LEAD-00222,Marketplace Inquiry,2022-11-26,Converted,ACC-0222
+LEAD-00223,Trade Show,2020-11-23,Converted,ACC-0223
+LEAD-00224,Referral,2023-12-25,Converted,ACC-0224
+LEAD-00225,Trade Show,2022-09-11,Converted,ACC-0225
+LEAD-00226,Marketplace Inquiry,2021-03-03,Converted,ACC-0226
+LEAD-00227,Outbound Prospecting,2024-08-20,Converted,ACC-0227
+LEAD-00228,Trade Show,2022-05-03,Converted,ACC-0228
+LEAD-00229,Partner Channel,2023-12-30,Converted,ACC-0229
+LEAD-00230,Outbound Prospecting,2024-05-01,Converted,ACC-0230
+LEAD-00231,Trade Show,2022-06-04,Converted,ACC-0231
+LEAD-00232,Marketplace Inquiry,2021-12-13,Converted,ACC-0232
+LEAD-00233,Referral,2024-05-23,Converted,ACC-0233
+LEAD-00234,Referral,2022-12-03,Converted,ACC-0234
+LEAD-00235,Trade Show,2021-08-02,Converted,ACC-0235
+LEAD-00236,Trade Show,2024-04-23,Converted,ACC-0236
+LEAD-00237,Marketplace Inquiry,2021-10-06,Converted,ACC-0237
+LEAD-00238,Marketplace Inquiry,2023-06-08,Converted,ACC-0238
+LEAD-00239,Outbound Prospecting,2021-02-11,Converted,ACC-0239
+LEAD-00240,Referral,2024-03-19,Converted,ACC-0240
+LEAD-00241,Partner Channel,2023-12-09,Converted,ACC-0241
+LEAD-00242,Referral,2023-01-11,Converted,ACC-0242
+LEAD-00243,Marketplace Inquiry,2022-12-24,Converted,ACC-0243
+LEAD-00244,Marketplace Inquiry,2023-06-11,Converted,ACC-0244
+LEAD-00245,Marketplace Inquiry,2022-05-03,Converted,ACC-0245
+LEAD-00246,Referral,2021-03-08,Converted,ACC-0246
+LEAD-00247,Outbound Prospecting,2021-08-31,Converted,ACC-0247
+LEAD-00248,Outbound Prospecting,2024-06-18,Converted,ACC-0248
+LEAD-00249,Outbound Prospecting,2023-03-10,Converted,ACC-0249
+LEAD-00250,Outbound Prospecting,2022-06-27,Converted,ACC-0250
+LEAD-00251,Referral,2021-02-03,Converted,ACC-0251
+LEAD-00252,Trade Show,2022-12-05,Converted,ACC-0252
+LEAD-00253,Marketplace Inquiry,2024-02-22,Converted,ACC-0253
+LEAD-00254,Outbound Prospecting,2022-12-03,Converted,ACC-0254
+LEAD-00255,Outbound Prospecting,2021-01-10,Converted,ACC-0255
+LEAD-00256,Partner Channel,2021-12-20,Converted,ACC-0256
+LEAD-00257,Outbound Prospecting,2020-12-28,Converted,ACC-0257
+LEAD-00258,Trade Show,2024-05-14,Converted,ACC-0258
+LEAD-00259,Outbound Prospecting,2021-05-09,Converted,ACC-0259
+LEAD-00260,Outbound Prospecting,2023-04-05,Converted,ACC-0260
+LEAD-00261,Marketplace Inquiry,2024-09-27,Disqualified,
+LEAD-00262,Trade Show,2021-01-02,Disqualified,
+LEAD-00263,Partner Channel,2024-06-22,Disqualified,
+LEAD-00264,Referral,2024-09-05,Disqualified,
+LEAD-00265,Referral,2021-07-27,Disqualified,
+LEAD-00266,Marketplace Inquiry,2023-05-04,Disqualified,
+LEAD-00267,Outbound Prospecting,2024-09-08,Disqualified,
+LEAD-00268,Marketplace Inquiry,2024-07-30,Disqualified,
+LEAD-00269,Outbound Prospecting,2021-06-07,Disqualified,
+LEAD-00270,Referral,2023-07-30,Disqualified,
+LEAD-00271,Referral,2021-03-10,Disqualified,
+LEAD-00272,Partner Channel,2021-11-20,Disqualified,
+LEAD-00273,Outbound Prospecting,2023-08-04,Disqualified,
+LEAD-00274,Trade Show,2022-06-16,Disqualified,
+LEAD-00275,Outbound Prospecting,2021-02-06,Disqualified,
+LEAD-00276,Trade Show,2023-12-07,Disqualified,
+LEAD-00277,Marketplace Inquiry,2021-12-21,Disqualified,
+LEAD-00278,Partner Channel,2022-08-29,Disqualified,
+LEAD-00279,Referral,2023-06-09,Open,
+LEAD-00280,Outbound Prospecting,2021-08-20,Disqualified,
+LEAD-00281,Outbound Prospecting,2023-07-14,Disqualified,
+LEAD-00282,Partner Channel,2022-05-01,Open,
+LEAD-00283,Referral,2021-03-10,Open,
+LEAD-00284,Trade Show,2024-08-31,Disqualified,
+LEAD-00285,Outbound Prospecting,2023-12-21,Disqualified,
+LEAD-00286,Outbound Prospecting,2023-10-04,Disqualified,
+LEAD-00287,Trade Show,2021-10-10,Disqualified,
+LEAD-00288,Trade Show,2023-03-23,Disqualified,
+LEAD-00289,Marketplace Inquiry,2023-05-23,Open,
+LEAD-00290,Outbound Prospecting,2022-03-12,Disqualified,
+LEAD-00291,Marketplace Inquiry,2023-08-03,Disqualified,
+LEAD-00292,Outbound Prospecting,2022-04-19,Disqualified,
+LEAD-00293,Marketplace Inquiry,2022-03-27,Disqualified,
+LEAD-00294,Referral,2021-08-19,Disqualified,
+LEAD-00295,Referral,2022-02-04,Disqualified,
+LEAD-00296,Marketplace Inquiry,2023-04-08,Disqualified,
+LEAD-00297,Marketplace Inquiry,2023-06-08,Disqualified,
+LEAD-00298,Outbound Prospecting,2022-01-30,Open,
+LEAD-00299,Partner Channel,2022-08-24,Disqualified,
+LEAD-00300,Referral,2022-11-04,Disqualified,
+LEAD-00301,Referral,2024-08-31,Disqualified,
+LEAD-00302,Referral,2021-02-13,Open,
+LEAD-00303,Referral,2023-06-18,Disqualified,
+LEAD-00304,Marketplace Inquiry,2022-01-19,Disqualified,
+LEAD-00305,Partner Channel,2022-10-16,Open,
+LEAD-00306,Marketplace Inquiry,2022-06-10,Disqualified,
+LEAD-00307,Marketplace Inquiry,2024-03-23,Disqualified,
+LEAD-00308,Marketplace Inquiry,2021-02-23,Disqualified,
+LEAD-00309,Outbound Prospecting,2022-04-24,Disqualified,
+LEAD-00310,Marketplace Inquiry,2022-06-24,Disqualified,
+LEAD-00311,Outbound Prospecting,2021-10-11,Disqualified,
+LEAD-00312,Outbound Prospecting,2021-02-06,Disqualified,
+LEAD-00313,Outbound Prospecting,2022-03-26,Disqualified,
+LEAD-00314,Outbound Prospecting,2023-01-24,Disqualified,
+LEAD-00315,Marketplace Inquiry,2021-05-13,Disqualified,
+LEAD-00316,Outbound Prospecting,2023-11-22,Disqualified,
+LEAD-00317,Trade Show,2022-09-22,Disqualified,
+LEAD-00318,Outbound Prospecting,2024-08-17,Disqualified,
+LEAD-00319,Referral,2022-10-16,Disqualified,
+LEAD-00320,Referral,2021-09-17,Disqualified,
+LEAD-00321,Marketplace Inquiry,2022-06-05,Disqualified,
+LEAD-00322,Referral,2023-11-21,Disqualified,
+LEAD-00323,Marketplace Inquiry,2021-11-06,Disqualified,
+LEAD-00324,Outbound Prospecting,2024-08-28,Disqualified,
+LEAD-00325,Trade Show,2022-08-25,Disqualified,
+LEAD-00326,Outbound Prospecting,2021-12-03,Disqualified,
+LEAD-00327,Outbound Prospecting,2021-11-06,Disqualified,
+LEAD-00328,Marketplace Inquiry,2024-02-22,Disqualified,
+LEAD-00329,Trade Show,2021-12-14,Disqualified,
+LEAD-00330,Marketplace Inquiry,2023-07-25,Disqualified,
+LEAD-00331,Referral,2021-09-15,Disqualified,
+LEAD-00332,Marketplace Inquiry,2023-04-05,Disqualified,
+LEAD-00333,Outbound Prospecting,2021-04-14,Disqualified,
+LEAD-00334,Partner Channel,2024-07-09,Disqualified,
+LEAD-00335,Marketplace Inquiry,2022-03-15,Disqualified,
+LEAD-00336,Marketplace Inquiry,2022-11-28,Disqualified,
+LEAD-00337,Marketplace Inquiry,2022-06-22,Disqualified,
+LEAD-00338,Outbound Prospecting,2024-04-21,Disqualified,
+LEAD-00339,Trade Show,2021-06-17,Disqualified,
+LEAD-00340,Partner Channel,2023-02-16,Disqualified,
+LEAD-00341,Outbound Prospecting,2024-10-28,Disqualified,
+LEAD-00342,Partner Channel,2022-10-29,Open,
+LEAD-00343,Outbound Prospecting,2023-07-29,Open,
+LEAD-00344,Outbound Prospecting,2023-07-02,Disqualified,
+LEAD-00345,Outbound Prospecting,2021-11-19,Disqualified,
+LEAD-00346,Trade Show,2024-10-31,Open,
+LEAD-00347,Trade Show,2021-02-19,Disqualified,
+LEAD-00348,Partner Channel,2024-03-19,Disqualified,
+LEAD-00349,Outbound Prospecting,2023-10-01,Disqualified,
+LEAD-00350,Trade Show,2022-03-28,Disqualified,
+LEAD-00351,Trade Show,2023-01-04,Disqualified,
+LEAD-00352,Referral,2021-07-07,Disqualified,
+LEAD-00353,Outbound Prospecting,2023-01-06,Disqualified,
+LEAD-00354,Outbound Prospecting,2021-09-08,Disqualified,
+LEAD-00355,Outbound Prospecting,2024-02-13,Disqualified,
+LEAD-00356,Marketplace Inquiry,2023-12-25,Disqualified,
+LEAD-00357,Outbound Prospecting,2022-08-19,Disqualified,
+LEAD-00358,Marketplace Inquiry,2023-10-11,Open,
+LEAD-00359,Referral,2024-02-27,Disqualified,
+LEAD-00360,Referral,2021-07-14,Disqualified,
+LEAD-00361,Trade Show,2023-10-26,Disqualified,
+LEAD-00362,Outbound Prospecting,2021-09-09,Disqualified,
+LEAD-00363,Outbound Prospecting,2022-09-15,Disqualified,
+LEAD-00364,Outbound Prospecting,2023-10-16,Disqualified,
+LEAD-00365,Partner Channel,2024-07-30,Disqualified,
+LEAD-00366,Marketplace Inquiry,2022-08-06,Disqualified,
+LEAD-00367,Trade Show,2022-12-23,Disqualified,
+LEAD-00368,Referral,2022-06-18,Disqualified,
+LEAD-00369,Partner Channel,2021-07-31,Disqualified,
+LEAD-00370,Marketplace Inquiry,2021-08-16,Open,
+LEAD-00371,Partner Channel,2022-08-13,Disqualified,
+LEAD-00372,Referral,2023-10-06,Disqualified,
+LEAD-00373,Marketplace Inquiry,2024-04-25,Disqualified,
+LEAD-00374,Partner Channel,2021-08-31,Disqualified,
+LEAD-00375,Referral,2024-02-07,Disqualified,
+LEAD-00376,Marketplace Inquiry,2024-04-25,Disqualified,
+LEAD-00377,Partner Channel,2023-11-09,Disqualified,
+LEAD-00378,Marketplace Inquiry,2023-08-01,Disqualified,
+LEAD-00379,Outbound Prospecting,2022-05-09,Open,
+LEAD-00380,Trade Show,2023-09-01,Disqualified,
+LEAD-00381,Outbound Prospecting,2022-10-03,Disqualified,
+LEAD-00382,Referral,2021-09-14,Disqualified,
+LEAD-00383,Referral,2021-07-01,Disqualified,
+LEAD-00384,Marketplace Inquiry,2024-01-24,Disqualified,
+LEAD-00385,Outbound Prospecting,2022-04-09,Disqualified,
+LEAD-00386,Trade Show,2023-06-09,Disqualified,
+LEAD-00387,Outbound Prospecting,2023-06-04,Disqualified,
+LEAD-00388,Outbound Prospecting,2021-01-17,Disqualified,
+LEAD-00389,Partner Channel,2023-10-25,Disqualified,
+LEAD-00390,Outbound Prospecting,2023-05-26,Disqualified,
+LEAD-00391,Referral,2022-12-16,Disqualified,
+LEAD-00392,Outbound Prospecting,2021-02-14,Open,
+LEAD-00393,Marketplace Inquiry,2023-07-29,Disqualified,
+LEAD-00394,Marketplace Inquiry,2021-11-02,Disqualified,
+LEAD-00395,Partner Channel,2022-02-13,Disqualified,
+LEAD-00396,Referral,2024-04-29,Disqualified,
+LEAD-00397,Referral,2022-10-22,Open,
+LEAD-00398,Marketplace Inquiry,2022-07-22,Disqualified,
+LEAD-00399,Marketplace Inquiry,2021-10-04,Disqualified,
+LEAD-00400,Marketplace Inquiry,2022-01-19,Disqualified,
+LEAD-00401,Outbound Prospecting,2023-07-07,Open,
+LEAD-00402,Marketplace Inquiry,2024-06-18,Disqualified,
+LEAD-00403,Outbound Prospecting,2021-05-03,Disqualified,
+LEAD-00404,Outbound Prospecting,2023-09-27,Disqualified,
+LEAD-00405,Referral,2023-06-23,Disqualified,
+LEAD-00406,Marketplace Inquiry,2022-04-14,Disqualified,
+LEAD-00407,Trade Show,2022-06-14,Disqualified,
+LEAD-00408,Outbound Prospecting,2023-12-20,Open,
+LEAD-00409,Outbound Prospecting,2022-10-07,Disqualified,
+LEAD-00410,Referral,2022-07-25,Disqualified,
+LEAD-00411,Referral,2022-02-18,Open,
+LEAD-00412,Marketplace Inquiry,2023-01-22,Disqualified,
+LEAD-00413,Outbound Prospecting,2021-12-16,Disqualified,
+LEAD-00414,Trade Show,2024-08-22,Disqualified,
+LEAD-00415,Trade Show,2023-03-23,Disqualified,
+LEAD-00416,Referral,2022-03-24,Disqualified,
+LEAD-00417,Trade Show,2021-08-07,Open,
+LEAD-00418,Outbound Prospecting,2021-06-29,Open,
+LEAD-00419,Referral,2021-12-04,Open,
+LEAD-00420,Partner Channel,2024-08-05,Disqualified,
+LEAD-00421,Marketplace Inquiry,2022-06-26,Open,
+LEAD-00422,Outbound Prospecting,2024-06-16,Disqualified,
+LEAD-00423,Referral,2024-04-10,Disqualified,
+LEAD-00424,Marketplace Inquiry,2021-09-26,Disqualified,
+LEAD-00425,Marketplace Inquiry,2023-10-08,Disqualified,
+LEAD-00426,Marketplace Inquiry,2021-09-08,Disqualified,
+LEAD-00427,Outbound Prospecting,2023-02-01,Disqualified,
+LEAD-00428,Trade Show,2024-04-24,Disqualified,
+LEAD-00429,Referral,2023-07-17,Disqualified,
+LEAD-00430,Trade Show,2024-08-24,Disqualified,
+LEAD-00431,Outbound Prospecting,2023-08-05,Disqualified,
+LEAD-00432,Referral,2024-01-04,Open,
+LEAD-00433,Partner Channel,2023-04-09,Disqualified,
+LEAD-00434,Marketplace Inquiry,2021-02-20,Disqualified,
+LEAD-00435,Outbound Prospecting,2022-09-04,Disqualified,
+LEAD-00436,Marketplace Inquiry,2021-07-04,Disqualified,
+LEAD-00437,Marketplace Inquiry,2023-03-16,Disqualified,
+LEAD-00438,Referral,2022-05-12,Disqualified,
+LEAD-00439,Referral,2023-05-10,Disqualified,
+LEAD-00440,Partner Channel,2022-05-26,Disqualified,
+LEAD-00441,Referral,2021-03-22,Open,
+LEAD-00442,Partner Channel,2023-02-27,Open,
+LEAD-00443,Partner Channel,2023-07-07,Disqualified,
+LEAD-00444,Marketplace Inquiry,2024-01-21,Disqualified,
+LEAD-00445,Referral,2023-10-04,Disqualified,
+LEAD-00446,Partner Channel,2023-10-26,Disqualified,
+LEAD-00447,Outbound Prospecting,2021-11-08,Disqualified,
+LEAD-00448,Outbound Prospecting,2024-05-26,Disqualified,
+LEAD-00449,Trade Show,2024-10-20,Disqualified,
+LEAD-00450,Marketplace Inquiry,2022-04-07,Open,
+LEAD-00451,Referral,2023-04-19,Open,
+LEAD-00452,Outbound Prospecting,2022-05-11,Disqualified,
+LEAD-00453,Outbound Prospecting,2023-06-26,Open,
+LEAD-00454,Outbound Prospecting,2022-11-09,Disqualified,
+LEAD-00455,Trade Show,2021-12-27,Disqualified,
+LEAD-00456,Marketplace Inquiry,2024-09-15,Disqualified,
+LEAD-00457,Referral,2022-11-17,Disqualified,
+LEAD-00458,Outbound Prospecting,2021-09-15,Disqualified,
+LEAD-00459,Partner Channel,2024-01-11,Open,
+LEAD-00460,Marketplace Inquiry,2023-02-21,Disqualified,
+LEAD-00461,Referral,2021-08-21,Disqualified,
+LEAD-00462,Marketplace Inquiry,2023-01-21,Disqualified,
+LEAD-00463,Partner Channel,2022-03-06,Disqualified,
+LEAD-00464,Marketplace Inquiry,2022-08-04,Open,
+LEAD-00465,Marketplace Inquiry,2022-06-07,Open,
+LEAD-00466,Outbound Prospecting,2021-08-10,Disqualified,
+LEAD-00467,Marketplace Inquiry,2023-07-06,Disqualified,
+LEAD-00468,Marketplace Inquiry,2024-10-01,Disqualified,
+LEAD-00469,Marketplace Inquiry,2022-03-12,Disqualified,
+LEAD-00470,Marketplace Inquiry,2024-01-30,Disqualified,
+LEAD-00471,Partner Channel,2022-01-30,Disqualified,
+LEAD-00472,Referral,2022-04-22,Disqualified,
+LEAD-00473,Outbound Prospecting,2024-10-20,Disqualified,
+LEAD-00474,Marketplace Inquiry,2022-05-07,Disqualified,
+LEAD-00475,Outbound Prospecting,2021-01-10,Disqualified,
+LEAD-00476,Outbound Prospecting,2021-09-17,Disqualified,
+LEAD-00477,Partner Channel,2022-02-06,Disqualified,
+LEAD-00478,Marketplace Inquiry,2023-01-27,Disqualified,
+LEAD-00479,Marketplace Inquiry,2024-04-14,Open,
+LEAD-00480,Outbound Prospecting,2021-03-09,Disqualified,
+LEAD-00481,Outbound Prospecting,2023-07-28,Disqualified,
+LEAD-00482,Outbound Prospecting,2021-06-30,Disqualified,
+LEAD-00483,Referral,2022-11-09,Open,
+LEAD-00484,Marketplace Inquiry,2021-02-23,Disqualified,
+LEAD-00485,Marketplace Inquiry,2023-10-27,Disqualified,
+LEAD-00486,Outbound Prospecting,2023-12-10,Disqualified,
+LEAD-00487,Outbound Prospecting,2023-02-21,Open,
+LEAD-00488,Marketplace Inquiry,2023-01-25,Disqualified,
+LEAD-00489,Marketplace Inquiry,2022-09-17,Disqualified,
+LEAD-00490,Outbound Prospecting,2023-05-17,Disqualified,
+LEAD-00491,Referral,2022-11-24,Disqualified,
+LEAD-00492,Outbound Prospecting,2021-01-21,Disqualified,
+LEAD-00493,Outbound Prospecting,2021-10-14,Disqualified,
+LEAD-00494,Referral,2023-12-04,Disqualified,
+LEAD-00495,Trade Show,2022-02-24,Disqualified,
+LEAD-00496,Referral,2023-11-23,Disqualified,
+LEAD-00497,Marketplace Inquiry,2022-06-19,Open,
+LEAD-00498,Marketplace Inquiry,2021-01-20,Disqualified,
+LEAD-00499,Outbound Prospecting,2021-05-25,Disqualified,
+LEAD-00500,Marketplace Inquiry,2021-06-16,Disqualified,
+LEAD-00501,Trade Show,2021-06-21,Open,
+LEAD-00502,Trade Show,2022-02-26,Disqualified,
+LEAD-00503,Referral,2021-04-21,Disqualified,
+LEAD-00504,Marketplace Inquiry,2023-03-12,Disqualified,
+LEAD-00505,Trade Show,2023-07-31,Open,
+LEAD-00506,Trade Show,2023-10-07,Disqualified,
+LEAD-00507,Outbound Prospecting,2021-07-19,Disqualified,
+LEAD-00508,Partner Channel,2024-02-29,Disqualified,
+LEAD-00509,Outbound Prospecting,2024-08-16,Disqualified,
+LEAD-00510,Referral,2023-02-15,Disqualified,
+LEAD-00511,Marketplace Inquiry,2024-09-02,Disqualified,
+LEAD-00512,Marketplace Inquiry,2024-08-31,Open,
+LEAD-00513,Marketplace Inquiry,2024-03-28,Disqualified,
+LEAD-00514,Marketplace Inquiry,2023-09-21,Open,
+LEAD-00515,Outbound Prospecting,2022-06-25,Disqualified,
+LEAD-00516,Outbound Prospecting,2022-10-29,Disqualified,
+LEAD-00517,Outbound Prospecting,2022-01-25,Open,
+LEAD-00518,Referral,2022-05-26,Disqualified,
+LEAD-00519,Marketplace Inquiry,2021-04-24,Disqualified,
+LEAD-00520,Outbound Prospecting,2022-02-12,Disqualified,
+LEAD-00521,Referral,2023-02-09,Disqualified,
+LEAD-00522,Outbound Prospecting,2021-02-02,Disqualified,
+LEAD-00523,Outbound Prospecting,2024-09-26,Disqualified,
+LEAD-00524,Outbound Prospecting,2022-07-08,Disqualified,
+LEAD-00525,Partner Channel,2021-12-31,Disqualified,
+LEAD-00526,Outbound Prospecting,2022-05-04,Disqualified,
+LEAD-00527,Outbound Prospecting,2021-04-26,Disqualified,
+LEAD-00528,Marketplace Inquiry,2021-03-27,Disqualified,
+LEAD-00529,Outbound Prospecting,2024-04-20,Disqualified,
+LEAD-00530,Outbound Prospecting,2021-12-28,Disqualified,
+LEAD-00531,Outbound Prospecting,2021-06-03,Disqualified,
+LEAD-00532,Marketplace Inquiry,2022-07-22,Open,
+LEAD-00533,Marketplace Inquiry,2021-11-16,Disqualified,
+LEAD-00534,Referral,2022-07-19,Disqualified,
+LEAD-00535,Marketplace Inquiry,2022-11-17,Open,
+LEAD-00536,Partner Channel,2021-06-17,Disqualified,
+LEAD-00537,Outbound Prospecting,2024-10-05,Disqualified,
+LEAD-00538,Outbound Prospecting,2021-05-30,Open,
+LEAD-00539,Marketplace Inquiry,2023-08-07,Disqualified,
+LEAD-00540,Trade Show,2024-01-17,Disqualified,
+LEAD-00541,Marketplace Inquiry,2021-02-27,Disqualified,
+LEAD-00542,Marketplace Inquiry,2022-10-25,Disqualified,
+LEAD-00543,Marketplace Inquiry,2024-04-20,Disqualified,
+LEAD-00544,Marketplace Inquiry,2022-11-15,Open,
+LEAD-00545,Referral,2022-07-15,Disqualified,
+LEAD-00546,Partner Channel,2022-02-10,Disqualified,
+LEAD-00547,Referral,2023-08-03,Disqualified,
+LEAD-00548,Marketplace Inquiry,2024-09-13,Disqualified,
+LEAD-00549,Referral,2022-07-22,Disqualified,
+LEAD-00550,Marketplace Inquiry,2022-05-07,Open,
+LEAD-00551,Marketplace Inquiry,2021-12-25,Disqualified,
+LEAD-00552,Outbound Prospecting,2021-09-07,Disqualified,
+LEAD-00553,Marketplace Inquiry,2024-02-24,Disqualified,
+LEAD-00554,Referral,2023-11-30,Disqualified,
+LEAD-00555,Outbound Prospecting,2023-02-21,Disqualified,
+LEAD-00556,Outbound Prospecting,2024-05-09,Disqualified,
+LEAD-00557,Outbound Prospecting,2022-04-17,Open,
+LEAD-00558,Trade Show,2021-08-09,Disqualified,
+LEAD-00559,Outbound Prospecting,2023-07-29,Disqualified,
+LEAD-00560,Marketplace Inquiry,2024-06-10,Disqualified,
+LEAD-00561,Outbound Prospecting,2022-10-30,Open,
+LEAD-00562,Marketplace Inquiry,2021-03-04,Open,
+LEAD-00563,Partner Channel,2023-12-12,Disqualified,
+LEAD-00564,Outbound Prospecting,2022-08-26,Disqualified,
+LEAD-00565,Marketplace Inquiry,2024-10-13,Disqualified,
+LEAD-00566,Outbound Prospecting,2021-04-28,Disqualified,
+LEAD-00567,Referral,2021-04-08,Disqualified,
+LEAD-00568,Outbound Prospecting,2023-08-20,Disqualified,
+LEAD-00569,Trade Show,2021-02-27,Open,
+LEAD-00570,Outbound Prospecting,2021-09-15,Disqualified,
+LEAD-00571,Marketplace Inquiry,2023-12-31,Disqualified,
+LEAD-00572,Trade Show,2023-09-14,Disqualified,
+LEAD-00573,Outbound Prospecting,2022-12-05,Disqualified,
+LEAD-00574,Marketplace Inquiry,2021-04-29,Disqualified,
+LEAD-00575,Marketplace Inquiry,2024-09-12,Disqualified,
+LEAD-00576,Referral,2022-01-01,Disqualified,
+LEAD-00577,Outbound Prospecting,2022-06-01,Disqualified,
+LEAD-00578,Trade Show,2021-08-23,Disqualified,
+LEAD-00579,Outbound Prospecting,2024-04-05,Open,
+LEAD-00580,Marketplace Inquiry,2023-03-17,Disqualified,
+LEAD-00581,Referral,2023-03-29,Disqualified,
+LEAD-00582,Outbound Prospecting,2023-05-06,Disqualified,
+LEAD-00583,Outbound Prospecting,2021-05-17,Disqualified,
+LEAD-00584,Referral,2021-01-05,Disqualified,
+LEAD-00585,Referral,2024-01-18,Open,
+LEAD-00586,Partner Channel,2022-05-16,Disqualified,
+LEAD-00587,Marketplace Inquiry,2024-09-06,Open,
+LEAD-00588,Partner Channel,2022-05-26,Disqualified,
+LEAD-00589,Trade Show,2023-09-14,Disqualified,
+LEAD-00590,Trade Show,2022-03-09,Disqualified,
+LEAD-00591,Referral,2022-10-03,Open,
+LEAD-00592,Marketplace Inquiry,2022-03-27,Disqualified,
+LEAD-00593,Referral,2022-07-17,Disqualified,
+LEAD-00594,Marketplace Inquiry,2023-05-14,Disqualified,
+LEAD-00595,Referral,2023-11-11,Disqualified,
+LEAD-00596,Referral,2023-04-20,Disqualified,
+LEAD-00597,Marketplace Inquiry,2024-04-22,Disqualified,
+LEAD-00598,Outbound Prospecting,2021-06-26,Disqualified,
+LEAD-00599,Outbound Prospecting,2024-10-18,Disqualified,
+LEAD-00600,Outbound Prospecting,2022-03-08,Disqualified,
+LEAD-00601,Partner Channel,2022-01-16,Disqualified,
+LEAD-00602,Outbound Prospecting,2024-09-06,Disqualified,
+LEAD-00603,Marketplace Inquiry,2022-02-11,Disqualified,
+LEAD-00604,Referral,2022-09-01,Disqualified,
+LEAD-00605,Outbound Prospecting,2021-07-23,Open,
+LEAD-00606,Outbound Prospecting,2022-03-27,Disqualified,
+LEAD-00607,Outbound Prospecting,2024-08-15,Disqualified,
+LEAD-00608,Referral,2023-11-01,Disqualified,
+LEAD-00609,Trade Show,2023-09-19,Disqualified,
+LEAD-00610,Partner Channel,2022-07-22,Disqualified,
+LEAD-00611,Referral,2021-10-15,Disqualified,
+LEAD-00612,Marketplace Inquiry,2023-05-17,Open,
+LEAD-00613,Outbound Prospecting,2024-03-27,Open,
+LEAD-00614,Marketplace Inquiry,2022-12-14,Disqualified,
+LEAD-00615,Outbound Prospecting,2022-08-01,Disqualified,
+LEAD-00616,Marketplace Inquiry,2024-08-07,Disqualified,
+LEAD-00617,Referral,2023-12-24,Disqualified,
+LEAD-00618,Outbound Prospecting,2021-05-29,Disqualified,
+LEAD-00619,Referral,2024-01-17,Open,
+LEAD-00620,Outbound Prospecting,2022-06-27,Disqualified,
+LEAD-00621,Referral,2024-03-01,Disqualified,
+LEAD-00622,Outbound Prospecting,2021-05-28,Open,
+LEAD-00623,Marketplace Inquiry,2024-10-12,Disqualified,
+LEAD-00624,Outbound Prospecting,2024-01-21,Open,
+LEAD-00625,Outbound Prospecting,2021-12-03,Open,
+LEAD-00626,Referral,2021-07-17,Disqualified,
+LEAD-00627,Outbound Prospecting,2024-03-19,Disqualified,
+LEAD-00628,Referral,2021-02-22,Disqualified,
+LEAD-00629,Referral,2023-07-23,Disqualified,
+LEAD-00630,Outbound Prospecting,2023-07-11,Open,
+LEAD-00631,Outbound Prospecting,2021-01-24,Disqualified,
+LEAD-00632,Marketplace Inquiry,2022-08-25,Disqualified,
+LEAD-00633,Outbound Prospecting,2023-04-08,Open,
+LEAD-00634,Referral,2021-04-06,Disqualified,
+LEAD-00635,Outbound Prospecting,2021-04-12,Disqualified,
+LEAD-00636,Outbound Prospecting,2021-10-16,Disqualified,
+LEAD-00637,Outbound Prospecting,2023-09-08,Disqualified,
+LEAD-00638,Marketplace Inquiry,2021-12-21,Disqualified,
+LEAD-00639,Marketplace Inquiry,2021-11-11,Disqualified,
+LEAD-00640,Referral,2024-10-20,Disqualified,
+LEAD-00641,Marketplace Inquiry,2023-07-12,Disqualified,
+LEAD-00642,Marketplace Inquiry,2021-08-29,Disqualified,
+LEAD-00643,Referral,2024-05-27,Disqualified,
+LEAD-00644,Referral,2023-01-25,Open,
+LEAD-00645,Partner Channel,2021-04-11,Disqualified,
+LEAD-00646,Referral,2022-06-08,Disqualified,
+LEAD-00647,Referral,2024-07-22,Disqualified,
+LEAD-00648,Partner Channel,2023-08-25,Disqualified,
+LEAD-00649,Trade Show,2022-07-05,Disqualified,
+LEAD-00650,Outbound Prospecting,2022-03-24,Disqualified,
+LEAD-00651,Referral,2022-08-26,Disqualified,
+LEAD-00652,Referral,2023-03-03,Disqualified,
+LEAD-00653,Outbound Prospecting,2021-09-04,Disqualified,
+LEAD-00654,Referral,2021-03-31,Disqualified,
+LEAD-00655,Referral,2022-06-21,Disqualified,
+LEAD-00656,Outbound Prospecting,2023-09-02,Disqualified,
+LEAD-00657,Trade Show,2024-10-17,Disqualified,
+LEAD-00658,Marketplace Inquiry,2024-08-29,Disqualified,
+LEAD-00659,Referral,2023-01-02,Open,
+LEAD-00660,Marketplace Inquiry,2023-01-06,Disqualified,
+LEAD-00661,Marketplace Inquiry,2023-06-10,Disqualified,
+LEAD-00662,Outbound Prospecting,2023-04-18,Disqualified,
+LEAD-00663,Referral,2024-09-02,Disqualified,
+LEAD-00664,Referral,2021-02-02,Disqualified,
+LEAD-00665,Partner Channel,2023-08-12,Disqualified,
+LEAD-00666,Trade Show,2023-08-01,Disqualified,
+LEAD-00667,Partner Channel,2024-03-15,Disqualified,
+LEAD-00668,Marketplace Inquiry,2021-03-05,Disqualified,
+LEAD-00669,Trade Show,2021-02-27,Disqualified,
+LEAD-00670,Partner Channel,2021-05-28,Disqualified,
+LEAD-00671,Marketplace Inquiry,2021-06-01,Open,
+LEAD-00672,Trade Show,2024-01-20,Disqualified,
+LEAD-00673,Marketplace Inquiry,2024-03-08,Disqualified,
+LEAD-00674,Referral,2024-09-07,Disqualified,
+LEAD-00675,Outbound Prospecting,2022-02-07,Disqualified,
+LEAD-00676,Marketplace Inquiry,2022-05-05,Disqualified,
+LEAD-00677,Marketplace Inquiry,2022-04-16,Open,
+LEAD-00678,Partner Channel,2024-05-08,Disqualified,
+LEAD-00679,Referral,2024-02-28,Disqualified,
+LEAD-00680,Outbound Prospecting,2023-07-19,Disqualified,
+LEAD-00681,Outbound Prospecting,2021-02-02,Disqualified,
+LEAD-00682,Referral,2023-09-17,Disqualified,
+LEAD-00683,Referral,2024-08-07,Disqualified,
+LEAD-00684,Outbound Prospecting,2024-01-24,Disqualified,
+LEAD-00685,Outbound Prospecting,2023-03-14,Disqualified,
+LEAD-00686,Marketplace Inquiry,2021-09-07,Disqualified,
+LEAD-00687,Referral,2022-12-07,Disqualified,
+LEAD-00688,Trade Show,2023-07-26,Disqualified,
+LEAD-00689,Marketplace Inquiry,2022-11-07,Disqualified,
+LEAD-00690,Marketplace Inquiry,2021-05-08,Disqualified,
+LEAD-00691,Outbound Prospecting,2023-10-13,Disqualified,
+LEAD-00692,Marketplace Inquiry,2021-09-05,Disqualified,
+LEAD-00693,Marketplace Inquiry,2023-11-28,Disqualified,
+LEAD-00694,Referral,2023-10-30,Disqualified,
+LEAD-00695,Outbound Prospecting,2023-06-10,Open,
+LEAD-00696,Partner Channel,2021-06-16,Open,
+LEAD-00697,Marketplace Inquiry,2022-07-05,Disqualified,
+LEAD-00698,Partner Channel,2024-10-07,Disqualified,
+LEAD-00699,Referral,2023-10-06,Disqualified,
+LEAD-00700,Trade Show,2021-11-02,Disqualified,
+LEAD-00701,Outbound Prospecting,2023-08-01,Disqualified,
+LEAD-00702,Outbound Prospecting,2022-07-09,Disqualified,
+LEAD-00703,Marketplace Inquiry,2023-08-27,Disqualified,
+LEAD-00704,Referral,2022-12-26,Open,
+LEAD-00705,Outbound Prospecting,2021-06-30,Open,
+LEAD-00706,Outbound Prospecting,2021-09-17,Disqualified,
+LEAD-00707,Outbound Prospecting,2022-06-02,Disqualified,
+LEAD-00708,Marketplace Inquiry,2021-12-12,Disqualified,
+LEAD-00709,Referral,2024-04-07,Disqualified,
+LEAD-00710,Outbound Prospecting,2022-04-27,Open,
+LEAD-00711,Marketplace Inquiry,2023-10-25,Disqualified,
+LEAD-00712,Marketplace Inquiry,2021-08-13,Disqualified,
+LEAD-00713,Marketplace Inquiry,2022-06-01,Disqualified,
+LEAD-00714,Outbound Prospecting,2021-09-24,Disqualified,
+LEAD-00715,Referral,2022-02-27,Disqualified,
+LEAD-00716,Marketplace Inquiry,2024-08-09,Open,
+LEAD-00717,Partner Channel,2021-10-17,Disqualified,
+LEAD-00718,Marketplace Inquiry,2023-07-21,Disqualified,
+LEAD-00719,Referral,2024-07-03,Disqualified,
+LEAD-00720,Partner Channel,2024-04-06,Disqualified,
+LEAD-00721,Outbound Prospecting,2021-06-22,Disqualified,
+LEAD-00722,Outbound Prospecting,2022-03-04,Disqualified,
+LEAD-00723,Marketplace Inquiry,2024-08-23,Disqualified,
+LEAD-00724,Referral,2024-02-05,Open,
+LEAD-00725,Trade Show,2023-11-15,Disqualified,
+LEAD-00726,Partner Channel,2024-06-07,Open,
+LEAD-00727,Partner Channel,2023-02-08,Disqualified,
+LEAD-00728,Marketplace Inquiry,2022-06-08,Disqualified,
+LEAD-00729,Partner Channel,2023-05-01,Open,
+LEAD-00730,Outbound Prospecting,2022-09-16,Disqualified,
+LEAD-00731,Marketplace Inquiry,2022-01-01,Disqualified,
+LEAD-00732,Outbound Prospecting,2022-09-25,Open,
+LEAD-00733,Partner Channel,2022-02-18,Disqualified,
+LEAD-00734,Referral,2024-03-20,Disqualified,
+LEAD-00735,Trade Show,2023-11-02,Disqualified,
+LEAD-00736,Outbound Prospecting,2024-09-16,Disqualified,
+LEAD-00737,Marketplace Inquiry,2024-04-12,Disqualified,
+LEAD-00738,Outbound Prospecting,2021-10-15,Disqualified,
+LEAD-00739,Outbound Prospecting,2021-01-31,Open,
+LEAD-00740,Marketplace Inquiry,2021-12-14,Disqualified,
+LEAD-00741,Marketplace Inquiry,2024-08-16,Disqualified,
+LEAD-00742,Outbound Prospecting,2023-12-13,Disqualified,
+LEAD-00743,Outbound Prospecting,2024-06-22,Disqualified,
+LEAD-00744,Outbound Prospecting,2022-12-03,Disqualified,
+LEAD-00745,Marketplace Inquiry,2022-01-22,Disqualified,
+LEAD-00746,Outbound Prospecting,2021-12-12,Disqualified,
+LEAD-00747,Partner Channel,2021-07-06,Disqualified,
+LEAD-00748,Outbound Prospecting,2021-05-27,Disqualified,
+LEAD-00749,Outbound Prospecting,2022-09-04,Disqualified,
+LEAD-00750,Outbound Prospecting,2021-11-18,Disqualified,
+LEAD-00751,Outbound Prospecting,2024-09-19,Disqualified,
+LEAD-00752,Outbound Prospecting,2021-11-17,Disqualified,
+LEAD-00753,Outbound Prospecting,2022-03-04,Disqualified,
+LEAD-00754,Partner Channel,2024-05-07,Disqualified,

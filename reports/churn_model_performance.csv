@@ -1,0 +1,2 @@
+AUC_ROC,Precision,Recall,F1,True_Positives,False_Positives,True_Negatives,False_Negatives,Base_Churn_Rate_%,n_test
+0.7811,0.5729,0.1581,0.2479,2168,1616,37129,11542,26.14,52455

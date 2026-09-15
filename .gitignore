@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+
+# Note: data/raw/, data/processed/, and reports/ are intentionally
+# NOT ignored - generated artifacts here are committed so the repo is
+# fully browsable on GitHub without anyone needing to run the pipeline.

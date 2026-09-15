@@ -1,0 +1,154 @@
+product_id,product_name,category,seasonality_profile,mega_sale_sensitivity,price_usd,margin_pct
+PRD-0001,Mobile Item 001,Mobile & Tablet,flat_growth,3.2,214.68,9.0
+PRD-0002,Mobile Item 002,Mobile & Tablet,flat_growth,3.2,504.12,6.5
+PRD-0003,Mobile Item 003,Mobile & Tablet,flat_growth,3.2,226.53,11.3
+PRD-0004,Mobile Item 004,Mobile & Tablet,flat_growth,3.2,179.1,7.0
+PRD-0005,Mobile Item 005,Mobile & Tablet,flat_growth,3.2,716.38,9.7
+PRD-0006,Mobile Item 006,Mobile & Tablet,flat_growth,3.2,361.82,9.1
+PRD-0007,Mobile Item 007,Mobile & Tablet,flat_growth,3.2,541.66,7.8
+PRD-0008,Mobile Item 008,Mobile & Tablet,flat_growth,3.2,220.44,10.6
+PRD-0009,Mobile Item 009,Mobile & Tablet,flat_growth,3.2,546.26,9.1
+PRD-0010,Mobile Item 010,Mobile & Tablet,flat_growth,3.2,635.84,9.3
+PRD-0011,Mobile Item 011,Mobile & Tablet,flat_growth,3.2,736.32,7.4
+PRD-0012,Mobile Item 012,Mobile & Tablet,flat_growth,3.2,474.88,8.9
+PRD-0013,Mobile Item 013,Mobile & Tablet,flat_growth,3.2,352.2,9.5
+PRD-0014,Mobile Item 014,Mobile & Tablet,flat_growth,3.2,280.0,10.6
+PRD-0015,Mobile Item 015,Mobile & Tablet,flat_growth,3.2,666.81,7.0
+PRD-0016,Mobile Item 016,Mobile & Tablet,flat_growth,3.2,421.85,7.8
+PRD-0017,Mobile Item 017,Mobile & Tablet,flat_growth,3.2,186.87,11.1
+PRD-0018,Home Item 001,Home Appliances,nowruz_bump,2.6,305.22,11.0
+PRD-0019,Home Item 002,Home Appliances,nowruz_bump,2.6,419.13,11.5
+PRD-0020,Home Item 003,Home Appliances,nowruz_bump,2.6,525.87,11.6
+PRD-0021,Home Item 004,Home Appliances,nowruz_bump,2.6,119.48,11.5
+PRD-0022,Home Item 005,Home Appliances,nowruz_bump,2.6,265.81,13.7
+PRD-0023,Home Item 006,Home Appliances,nowruz_bump,2.6,528.07,15.7
+PRD-0024,Home Item 007,Home Appliances,nowruz_bump,2.6,262.8,9.9
+PRD-0025,Home Item 008,Home Appliances,nowruz_bump,2.6,178.8,18.2
+PRD-0026,Home Item 009,Home Appliances,nowruz_bump,2.6,319.15,15.6
+PRD-0027,Home Item 010,Home Appliances,nowruz_bump,2.6,129.58,10.1
+PRD-0028,Home Item 011,Home Appliances,nowruz_bump,2.6,499.88,14.7
+PRD-0029,Home Item 012,Home Appliances,nowruz_bump,2.6,248.48,12.5
+PRD-0030,Home Item 013,Home Appliances,nowruz_bump,2.6,145.76,11.3
+PRD-0031,Home Item 014,Home Appliances,nowruz_bump,2.6,115.51,16.8
+PRD-0032,Home Item 015,Home Appliances,nowruz_bump,2.6,322.23,10.9
+PRD-0033,Home Item 016,Home Appliances,nowruz_bump,2.6,449.97,11.4
+PRD-0034,Home Item 017,Home Appliances,nowruz_bump,2.6,132.98,14.8
+PRD-0035,Fashion Item 001,Fashion & Apparel,spring_bump,2.0,90.56,22.9
+PRD-0036,Fashion Item 002,Fashion & Apparel,spring_bump,2.0,83.22,26.1
+PRD-0037,Fashion Item 003,Fashion & Apparel,spring_bump,2.0,25.53,22.7
+PRD-0038,Fashion Item 004,Fashion & Apparel,spring_bump,2.0,41.73,36.4
+PRD-0039,Fashion Item 005,Fashion & Apparel,spring_bump,2.0,57.95,38.8
+PRD-0040,Fashion Item 006,Fashion & Apparel,spring_bump,2.0,35.59,28.5
+PRD-0041,Fashion Item 007,Fashion & Apparel,spring_bump,2.0,38.91,41.2
+PRD-0042,Fashion Item 008,Fashion & Apparel,spring_bump,2.0,94.22,28.9
+PRD-0043,Fashion Item 009,Fashion & Apparel,spring_bump,2.0,53.32,28.4
+PRD-0044,Fashion Item 010,Fashion & Apparel,spring_bump,2.0,78.47,23.2
+PRD-0045,Fashion Item 011,Fashion & Apparel,spring_bump,2.0,23.46,30.2
+PRD-0046,Fashion Item 012,Fashion & Apparel,spring_bump,2.0,37.85,38.6
+PRD-0047,Fashion Item 013,Fashion & Apparel,spring_bump,2.0,78.09,32.9
+PRD-0048,Fashion Item 014,Fashion & Apparel,spring_bump,2.0,71.58,35.7
+PRD-0049,Fashion Item 015,Fashion & Apparel,spring_bump,2.0,81.27,40.2
+PRD-0050,Fashion Item 016,Fashion & Apparel,spring_bump,2.0,30.13,34.4
+PRD-0051,Fashion Item 017,Fashion & Apparel,spring_bump,2.0,29.63,30.9
+PRD-0052,Beauty Item 001,Beauty & Health,gifting_bump,1.6,50.83,47.0
+PRD-0053,Beauty Item 002,Beauty & Health,gifting_bump,1.6,49.47,27.4
+PRD-0054,Beauty Item 003,Beauty & Health,gifting_bump,1.6,29.31,30.3
+PRD-0055,Beauty Item 004,Beauty & Health,gifting_bump,1.6,61.54,29.9
+PRD-0056,Beauty Item 005,Beauty & Health,gifting_bump,1.6,23.51,34.7
+PRD-0057,Beauty Item 006,Beauty & Health,gifting_bump,1.6,14.27,46.4
+PRD-0058,Beauty Item 007,Beauty & Health,gifting_bump,1.6,43.27,30.2
+PRD-0059,Beauty Item 008,Beauty & Health,gifting_bump,1.6,36.31,28.4
+PRD-0060,Beauty Item 009,Beauty & Health,gifting_bump,1.6,41.99,31.9
+PRD-0061,Beauty Item 010,Beauty & Health,gifting_bump,1.6,13.15,29.2
+PRD-0062,Beauty Item 011,Beauty & Health,gifting_bump,1.6,39.19,41.1
+PRD-0063,Beauty Item 012,Beauty & Health,gifting_bump,1.6,27.57,41.3
+PRD-0064,Beauty Item 013,Beauty & Health,gifting_bump,1.6,28.94,29.6
+PRD-0065,Beauty Item 014,Beauty & Health,gifting_bump,1.6,27.09,35.6
+PRD-0066,Beauty Item 015,Beauty & Health,gifting_bump,1.6,57.2,29.2
+PRD-0067,Beauty Item 016,Beauty & Health,gifting_bump,1.6,15.54,39.4
+PRD-0068,Beauty Item 017,Beauty & Health,gifting_bump,1.6,59.75,47.3
+PRD-0069,Books Item 001,Books & Media,back_to_school,1.1,19.93,16.3
+PRD-0070,Books Item 002,Books & Media,back_to_school,1.1,22.22,24.4
+PRD-0071,Books Item 003,Books & Media,back_to_school,1.1,7.91,21.5
+PRD-0072,Books Item 004,Books & Media,back_to_school,1.1,5.87,26.0
+PRD-0073,Books Item 005,Books & Media,back_to_school,1.1,20.32,26.0
+PRD-0074,Books Item 006,Books & Media,back_to_school,1.1,21.22,18.9
+PRD-0075,Books Item 007,Books & Media,back_to_school,1.1,21.86,18.7
+PRD-0076,Books Item 008,Books & Media,back_to_school,1.1,7.78,20.6
+PRD-0077,Books Item 009,Books & Media,back_to_school,1.1,15.55,19.2
+PRD-0078,Books Item 010,Books & Media,back_to_school,1.1,17.88,23.4
+PRD-0079,Books Item 011,Books & Media,back_to_school,1.1,9.98,23.6
+PRD-0080,Books Item 012,Books & Media,back_to_school,1.1,12.52,25.1
+PRD-0081,Books Item 013,Books & Media,back_to_school,1.1,11.07,25.9
+PRD-0082,Books Item 014,Books & Media,back_to_school,1.1,13.77,22.7
+PRD-0083,Books Item 015,Books & Media,back_to_school,1.1,19.34,22.2
+PRD-0084,Books Item 016,Books & Media,back_to_school,1.1,10.36,28.3
+PRD-0085,Books Item 017,Books & Media,back_to_school,1.1,6.87,19.7
+PRD-0086,Digital Item 001,Digital Goods,flat_growth,3.6,24.99,39.4
+PRD-0087,Digital Item 002,Digital Goods,flat_growth,3.6,12.22,64.9
+PRD-0088,Digital Item 003,Digital Goods,flat_growth,3.6,32.6,59.5
+PRD-0089,Digital Item 004,Digital Goods,flat_growth,3.6,36.42,63.4
+PRD-0090,Digital Item 005,Digital Goods,flat_growth,3.6,16.88,59.8
+PRD-0091,Digital Item 006,Digital Goods,flat_growth,3.6,18.22,63.2
+PRD-0092,Digital Item 007,Digital Goods,flat_growth,3.6,19.67,43.6
+PRD-0093,Digital Item 008,Digital Goods,flat_growth,3.6,35.6,61.3
+PRD-0094,Digital Item 009,Digital Goods,flat_growth,3.6,31.33,57.0
+PRD-0095,Digital Item 010,Digital Goods,flat_growth,3.6,32.57,53.3
+PRD-0096,Digital Item 011,Digital Goods,flat_growth,3.6,25.53,40.6
+PRD-0097,Digital Item 012,Digital Goods,flat_growth,3.6,25.18,65.4
+PRD-0098,Digital Item 013,Digital Goods,flat_growth,3.6,30.06,65.0
+PRD-0099,Digital Item 014,Digital Goods,flat_growth,3.6,23.27,67.6
+PRD-0100,Digital Item 015,Digital Goods,flat_growth,3.6,10.71,67.4
+PRD-0101,Digital Item 016,Digital Goods,flat_growth,3.6,19.23,41.5
+PRD-0102,Digital Item 017,Digital Goods,flat_growth,3.6,27.27,53.5
+PRD-0103,Grocery Item 001,Grocery & Gourmet,yalda_bump,1.2,25.76,21.8
+PRD-0104,Grocery Item 002,Grocery & Gourmet,yalda_bump,1.2,14.26,19.3
+PRD-0105,Grocery Item 003,Grocery & Gourmet,yalda_bump,1.2,25.18,18.3
+PRD-0106,Grocery Item 004,Grocery & Gourmet,yalda_bump,1.2,28.58,14.0
+PRD-0107,Grocery Item 005,Grocery & Gourmet,yalda_bump,1.2,29.08,21.9
+PRD-0108,Grocery Item 006,Grocery & Gourmet,yalda_bump,1.2,15.58,12.7
+PRD-0109,Grocery Item 007,Grocery & Gourmet,yalda_bump,1.2,11.48,17.6
+PRD-0110,Grocery Item 008,Grocery & Gourmet,yalda_bump,1.2,47.39,13.1
+PRD-0111,Grocery Item 009,Grocery & Gourmet,yalda_bump,1.2,48.04,18.4
+PRD-0112,Grocery Item 010,Grocery & Gourmet,yalda_bump,1.2,13.56,17.1
+PRD-0113,Grocery Item 011,Grocery & Gourmet,yalda_bump,1.2,17.01,20.3
+PRD-0114,Grocery Item 012,Grocery & Gourmet,yalda_bump,1.2,30.24,15.7
+PRD-0115,Grocery Item 013,Grocery & Gourmet,yalda_bump,1.2,18.91,22.0
+PRD-0116,Grocery Item 014,Grocery & Gourmet,yalda_bump,1.2,39.14,17.3
+PRD-0117,Grocery Item 015,Grocery & Gourmet,yalda_bump,1.2,24.86,20.6
+PRD-0118,Grocery Item 016,Grocery & Gourmet,yalda_bump,1.2,47.24,13.5
+PRD-0119,Grocery Item 017,Grocery & Gourmet,yalda_bump,1.2,15.1,16.5
+PRD-0120,Home Item 001,Home & Kitchen,nowruz_bump,2.1,72.26,19.3
+PRD-0121,Home Item 002,Home & Kitchen,nowruz_bump,2.1,27.3,21.6
+PRD-0122,Home Item 003,Home & Kitchen,nowruz_bump,2.1,60.21,29.7
+PRD-0123,Home Item 004,Home & Kitchen,nowruz_bump,2.1,82.38,18.7
+PRD-0124,Home Item 005,Home & Kitchen,nowruz_bump,2.1,26.46,25.3
+PRD-0125,Home Item 006,Home & Kitchen,nowruz_bump,2.1,108.61,32.5
+PRD-0126,Home Item 007,Home & Kitchen,nowruz_bump,2.1,58.15,32.0
+PRD-0127,Home Item 008,Home & Kitchen,nowruz_bump,2.1,113.98,24.5
+PRD-0128,Home Item 009,Home & Kitchen,nowruz_bump,2.1,95.86,23.9
+PRD-0129,Home Item 010,Home & Kitchen,nowruz_bump,2.1,37.2,27.2
+PRD-0130,Home Item 011,Home & Kitchen,nowruz_bump,2.1,30.56,28.5
+PRD-0131,Home Item 012,Home & Kitchen,nowruz_bump,2.1,102.11,32.5
+PRD-0132,Home Item 013,Home & Kitchen,nowruz_bump,2.1,66.35,20.0
+PRD-0133,Home Item 014,Home & Kitchen,nowruz_bump,2.1,111.35,31.8
+PRD-0134,Home Item 015,Home & Kitchen,nowruz_bump,2.1,117.79,27.5
+PRD-0135,Home Item 016,Home & Kitchen,nowruz_bump,2.1,88.67,24.0
+PRD-0136,Home Item 017,Home & Kitchen,nowruz_bump,2.1,40.13,22.8
+PRD-0137,Sports Item 001,Sports & Outdoor,summer_bump,1.7,110.32,21.5
+PRD-0138,Sports Item 002,Sports & Outdoor,summer_bump,1.7,106.92,24.0
+PRD-0139,Sports Item 003,Sports & Outdoor,summer_bump,1.7,78.53,30.7
+PRD-0140,Sports Item 004,Sports & Outdoor,summer_bump,1.7,45.43,23.8
+PRD-0141,Sports Item 005,Sports & Outdoor,summer_bump,1.7,44.69,30.3
+PRD-0142,Sports Item 006,Sports & Outdoor,summer_bump,1.7,83.17,21.6
+PRD-0143,Sports Item 007,Sports & Outdoor,summer_bump,1.7,45.69,25.4
+PRD-0144,Sports Item 008,Sports & Outdoor,summer_bump,1.7,72.68,18.6
+PRD-0145,Sports Item 009,Sports & Outdoor,summer_bump,1.7,29.79,22.4
+PRD-0146,Sports Item 010,Sports & Outdoor,summer_bump,1.7,94.23,24.3
+PRD-0147,Sports Item 011,Sports & Outdoor,summer_bump,1.7,131.3,29.9
+PRD-0148,Sports Item 012,Sports & Outdoor,summer_bump,1.7,135.55,28.3
+PRD-0149,Sports Item 013,Sports & Outdoor,summer_bump,1.7,81.88,24.3
+PRD-0150,Sports Item 014,Sports & Outdoor,summer_bump,1.7,72.49,22.6
+PRD-0151,Sports Item 015,Sports & Outdoor,summer_bump,1.7,30.86,28.3
+PRD-0152,Sports Item 016,Sports & Outdoor,summer_bump,1.7,54.78,17.2
+PRD-0153,Sports Item 017,Sports & Outdoor,summer_bump,1.7,80.58,27.1
