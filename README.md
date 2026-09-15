@@ -44,23 +44,26 @@ The full interactive dashboard (`reports/marketco_dashboard.html`) opens directl
 
 **Overview — KPIs with trend deltas, and auto-generated key insights:**
 
-![Dashboard overview](docs/screenshots/dashboard_overview.png)
+<img width="908" height="353" alt="Screenshot 2026-09-15 111552" src="https://github.com/user-attachments/assets/915fc175-f45f-4ca4-ac1c-9266892896df" />
+<img width="911" height="347" alt="1" src="https://github.com/user-attachments/assets/2c4c0a95-8194-43d8-8697-c75313e28510" />
+
 
 **Demand forecast — history plus a 12-week P50/P95 forecast, visibly shaped by the mega-sale calendar:**
 
-![Order-volume forecast chart](docs/screenshots/forecast_chart.png)
+<img width="905" height="377" alt="Screenshot 2026-09-15 111736" src="https://github.com/user-attachments/assets/451dcf81-4412-455a-b27c-581c6ab59fd7" />
 
 **Business trends — full 2-year monthly GMV with YoY growth, revenue by seller tier, and lifetime value by acquisition channel:**
 
-![Business trends and segmentation deep-dive](docs/screenshots/business_trends.png)
+<img width="914" height="310" alt="Screenshot 2026-09-15 111352" src="https://github.com/user-attachments/assets/8e3c4a12-592a-4866-9993-e66c9cb7f8f5" />
+<img width="908" height="353" alt="Screenshot 2026-09-15 111338" src="https://github.com/user-attachments/assets/5e681b7e-b978-42c5-9ee9-b06400fc956d" />
 
 **CRM seller-acquisition funnel and win rate by lead source:**
 
-![CRM funnel and win rate](docs/screenshots/crm_funnel.png)
+<img width="921" height="347" alt="Screenshot 2026-09-15 111400" src="https://github.com/user-attachments/assets/cb743b5a-38a0-4c23-b220-9d1cf205f181" />
 
 **Customer segmentation and support case volume / SLA trend:**
 
-![Customer segments and support cases](docs/screenshots/churn_and_cases.png)
+<img width="910" height="367" alt="Screenshot 2026-09-15 111410" src="https://github.com/user-attachments/assets/3012cc2b-3067-42a6-b3b5-54b4f59538b4" />
 
 ## End-to-End Pipeline Flow
 
