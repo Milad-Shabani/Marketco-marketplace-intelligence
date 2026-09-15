@@ -44,8 +44,10 @@ The full interactive dashboard (`reports/marketco_dashboard.html`) opens directl
 
 **Overview — KPIs with trend deltas, and auto-generated key insights:**
 
-<img width="908" height="353" alt="Screenshot 2026-09-15 111552" src="https://github.com/user-attachments/assets/915fc175-f45f-4ca4-ac1c-9266892896df" />
 <img width="911" height="347" alt="1" src="https://github.com/user-attachments/assets/2c4c0a95-8194-43d8-8697-c75313e28510" />
+<img width="898" height="181" alt="Screenshot 2026-09-15 111310" src="https://github.com/user-attachments/assets/4ad9d7c7-c105-4dcc-9618-488c5b11f4ec" />
+<img width="908" height="353" alt="Screenshot 2026-09-15 111552" src="https://github.com/user-attachments/assets/915fc175-f45f-4ca4-ac1c-9266892896df" />
+
 
 
 **Demand forecast — history plus a 12-week P50/P95 forecast, visibly shaped by the mega-sale calendar:**
