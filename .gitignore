@@ -12,3 +12,4 @@ venv/
 # Note: data/raw/, data/processed/, and reports/ are intentionally
 # NOT ignored - generated artifacts here are committed so the repo is
 # fully browsable on GitHub without anyone needing to run the pipeline.
+*.draft.md
