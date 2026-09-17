@@ -1,4 +1,4 @@
-# MarketCo Marketplace Intelligence
+# Supermarket Marketplace Intelligence
 
 **Marketplace operations forecasting and Dynamics 365-style CRM analytics for a large multi-seller e-commerce platform.** A synthetic, large-scale (~780K-row) dataset for a fictional marketplace company, "MarketCo Inc." (conceptually modeled on large regional multi-seller e-commerce platforms such as Digikala): 5 fulfillment centers, 260 sellers, 36,000 customers, 578,767 orders, and a full Microsoft Dynamics 365-style CRM layer (Leads, Opportunities, Accounts, Contacts, Cases, Activities) - a global LightGBM order-volume forecaster that explicitly models the marketplace's own mega-sale calendar, a customer-churn classifier with RFM segmentation, and both an 8-sheet Excel workbook and a standalone interactive HTML dashboard rendered from one source of truth.
 
