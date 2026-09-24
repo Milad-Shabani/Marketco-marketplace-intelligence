@@ -174,6 +174,9 @@ def main() -> None:
                                (cases_dated["created_date"] > max_date - pd.Timedelta(days=180))]["met_sla"].mean()
     sla_delta = pct_change(sla_last90, sla_prior90)
 
+    n_at_risk = int((segmented["segment"] == "At Risk").sum())
+    at_risk_value = segmented.loc[segmented["segment"] == "At Risk", "monetary_180d"].sum()
+
     kpis = [
         {"label": "Network GMV (2Y)", "value": f"${total_gmv/1e6:,.1f}M",
          "sub": f"{total_orders:,} orders across 9 categories", "icon": "gmv",
@@ -188,6 +191,8 @@ def main() -> None:
         {"label": "90-Day Churn Rate", "value": f"{overall_churn_rate:.1%}",
          "sub": f"Churn model AUC {churn_metrics['AUC_ROC']:.2f}", "icon": "churn",
          "delta_pct": churn_delta, "good_when_up": False},
+        {"label": "At-Risk Customers", "value": f"{n_at_risk:,}",
+         "sub": f"${at_risk_value/1e3:,.0f}K spent in the last 180 days", "icon": "risk"},
         {"label": "CRM Win Rate", "value": f"{funnel_summary['win_rate']:.1%}",
          "sub": f"{funnel_summary['leads_total']:,} leads, {funnel_summary['lead_conversion_rate']:.1%} conversion",
          "icon": "crm"},
@@ -216,8 +221,6 @@ def main() -> None:
     top_category = revenue_by_category.iloc[0]
     worst_wh = wh_perf.sort_values("on_time_rate").iloc[0]
     best_source = win_rate_df.sort_values("win_rate", ascending=False).iloc[0]
-    n_at_risk = int((segmented["segment"] == "At Risk").sum())
-    at_risk_value = segmented.loc[segmented["segment"] == "At Risk", "monetary_180d"].sum()
     worst_case_cat = case_summary.sort_values("sla_compliance").iloc[0]
     peak_week = future_network.loc[future_network["forecast_p50"].idxmax()]
 

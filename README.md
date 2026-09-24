@@ -40,32 +40,35 @@ Full breakdown in [`reports/order_model_performance.csv`](reports/order_model_pe
 
 ## Dashboard Preview
 
-The full interactive dashboard (`reports/marketco_dashboard.html`) opens directly in any browser — no server required. A few highlights below; open the file itself for the live, hoverable Plotly charts and the full customer/seller tables.
+The full interactive dashboard (`reports/marketco_dashboard.html`) opens directly in any browser — no server required — and fits any screen, from a phone to a wide monitor. Every chart carries a one-line takeaway computed from the run's data. A few highlights below; open the file itself for the live, hoverable Plotly charts and the full customer/seller tables.
 
-**Overview — KPIs with trend deltas, and auto-generated key insights:**
+**Overview — eight KPIs with 90-day trend deltas, and auto-generated key insights:**
 
-<img width="911" height="347" alt="1" src="https://github.com/user-attachments/assets/2c4c0a95-8194-43d8-8697-c75313e28510" />
-<img width="898" height="181" alt="Screenshot 2026-09-15 111310" src="https://github.com/user-attachments/assets/4ad9d7c7-c105-4dcc-9618-488c5b11f4ec" />
-<img width="908" height="353" alt="Screenshot 2026-09-15 111552" src="https://github.com/user-attachments/assets/915fc175-f45f-4ca4-ac1c-9266892896df" />
+![Dashboard overview: KPI cards and key insights](docs/screenshots/dashboard_overview.png)
 
+**Operations — GMV by category and on-time delivery against the 90% target:**
 
+![GMV by category and on-time delivery by warehouse](docs/screenshots/operations.png)
 
 **Demand forecast — history plus a 12-week P50/P95 forecast, visibly shaped by the mega-sale calendar:**
 
-<img width="905" height="377" alt="Screenshot 2026-09-15 111736" src="https://github.com/user-attachments/assets/451dcf81-4412-455a-b27c-581c6ab59fd7" />
+![Weekly orders: history and 12-week forecast](docs/screenshots/forecast_chart.png)
 
 **Business trends — full 2-year monthly GMV with YoY growth, revenue by seller tier, and lifetime value by acquisition channel:**
 
-<img width="914" height="310" alt="Screenshot 2026-09-15 111352" src="https://github.com/user-attachments/assets/8e3c4a12-592a-4866-9993-e66c9cb7f8f5" />
-<img width="908" height="353" alt="Screenshot 2026-09-15 111338" src="https://github.com/user-attachments/assets/5e681b7e-b978-42c5-9ee9-b06400fc956d" />
+![Monthly GMV, seller tiers and acquisition channels](docs/screenshots/business_trends.png)
 
 **CRM seller-acquisition funnel and win rate by lead source:**
 
-<img width="921" height="347" alt="Screenshot 2026-09-15 111400" src="https://github.com/user-attachments/assets/cb743b5a-38a0-4c23-b220-9d1cf205f181" />
+![Seller acquisition funnel and win rate by lead source](docs/screenshots/crm_funnel.png)
 
-**Customer segmentation and support case volume / SLA trend:**
+**Customer health — RFM x churn-risk segments and the churn watchlist:**
 
-<img width="910" height="367" alt="Screenshot 2026-09-15 111410" src="https://github.com/user-attachments/assets/3012cc2b-3067-42a6-b3b5-54b4f59538b4" />
+![Customer segments and churn watchlist](docs/screenshots/customer_health.png)
+
+**Support — case volume and SLA trend, with SLA, resolution time and CSAT by category:**
+
+![Support case volume, SLA and case categories](docs/screenshots/support_cases.png)
 
 ## End-to-End Pipeline Flow
 
