@@ -5,6 +5,9 @@
 <title>MarketCo Inc. — Operations & CRM Intelligence Dashboard</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light">
+<link rel="alternate" hreflang="en" href="https://milad-shabani.github.io/Marketco-marketplace-intelligence/">
+<link rel="alternate" hreflang="fa" href="https://milad-shabani.github.io/Marketco-marketplace-intelligence/fa/">
+<link rel="alternate" hreflang="x-default" href="https://milad-shabani.github.io/Marketco-marketplace-intelligence/">
 <style>
   :root {
     --ink: #26233F; --muted: #7D799F; --bg: #FFFFFF; --panel: #FBFAFF; --card: #FFFFFF;
@@ -154,11 +157,29 @@
     nav.subnav, .sig-link { display: none; }
     .card, .kpi-card, .insights-card { box-shadow: none; break-inside: avoid; }
   }
+
+  /* ---- language switcher ---- */
+  .header-inner { position: relative; }
+  .lang-switch {
+    position: absolute; top: 20px; right: 40px; display: inline-flex; align-items: center; gap: 7px;
+    background: rgba(255,255,255,0.18); color: #fff; text-decoration: none; border: 1px solid rgba(255,255,255,0.28);
+    border-radius: 999px; padding: 6px 14px 6px 11px; font-size: 13px; font-weight: 600; line-height: 1.2;
+    transition: background .15s ease;
+  }
+  .lang-switch:hover, .lang-switch:focus-visible { background: rgba(255,255,255,0.3); outline: none; }
+  .lang-switch svg { width: 16px; height: 16px; flex-shrink: 0; }
+  header h1 { padding-right: 120px; }
+  @media (max-width: 640px) {
+    .lang-switch { position: static; margin-bottom: 12px; }
+    header h1 { padding-right: 0; }
+  }
+  @media print { .lang-switch { display: none; } }
 </style>
 </head>
 <body>
 <header>
   <div class="header-inner">
+    <a class="lang-switch" href="fa/index.html" hreflang="fa" lang="fa" dir="rtl" title="نسخه فارسی داشبورد"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg><span>فارسی</span></a>
     <h1>MarketCo Inc. — Operations &amp; CRM Intelligence <span class="badge-top">SYNTHETIC DEMO DATA</span></h1>
     <p>Dynamics 365-style CRM · Network-wide report · Generated 2026-09-24 · Full detail in <strong>MarketCo_Ops_CRM_Report.xlsx</strong></p>
   </div>
