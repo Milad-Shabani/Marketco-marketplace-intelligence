@@ -23,25 +23,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Find and assemble the dashboard
+      - name: Assemble the site (English at /, Persian at /fa/)
         run: |
           set -e
-          DIR=""
-          for c in dashboard reports docs site public .; do
-            if [ -f "$c/index.html" ]; then DIR="$c"; break; fi
-          done
-          if [ -z "$DIR" ]; then
-            F=$(find . -name '*.html' -not -path './.git/*' | head -n 1)
-            if [ -z "$F" ]; then echo "no html file in this repository"; exit 1; fi
-            DIR=$(dirname "$F")
-          fi
-          echo "publishing folder: $DIR"
           mkdir -p _site
-          rsync -a --exclude '_site' --exclude '.git' "$DIR"/ _site/
-          if [ ! -f _site/index.html ]; then
-            FIRST=$(ls _site/*.html | head -n 1)
-            echo "using $FIRST as index.html"
-            cp "$FIRST" _site/index.html
+          # Everything in reports/ is published: the English dashboard, the Excel report,
+          # the CSVs and the Persian page in reports/fa/.
+          rsync -a reports/ _site/
+          cp reports/marketco_dashboard.html _site/index.html        # English  -> /
+          if [ -f _site/fa/index.html ]; then                         # Persian  -> /fa/
+            # Nicer URLs for the language switcher on the live site. In the repository the links stay
+            # as plain relative file paths (fa/index.html and ../marketco_dashboard.html), so the
+            # files also work when opened straight from disk.
+            sed -i 's#href="fa/index.html"#href="fa/"#' _site/index.html
+            sed -i 's#href="../marketco_dashboard.html"#href="../"#' _site/fa/index.html
+          else
+            echo "::warning::reports/fa/index.html not found - the Persian page is not published"
           fi
 
       - uses: actions/configure-pages@v5
